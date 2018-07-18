@@ -1,20 +1,26 @@
-//CHALLENGE 1: Create a function that dislays on the webpage the user's breakfast in ALL CAPS when the user presses "Yell Breakfast"
+//STEP 1: Create event listeners for each button that print out the name of the button in the console. 
+
+//STEP 2: Write a function that gets the user's input and returns it
+
+//STEP 3: Write a function that, when called, display a string on screen
+
+//STEP 4: Write a function that, when called, removes everything printed in the "output" div
+
+
+//CHALLENGE 1: Using the functions created in step 2 and 3, edit the event listener for "Yell Button" so that it displays the breakfast in ALL CAPS
+//NOTE: Make sure you clear the "output" div!!
+
+
+//CHALLENGE 2: Using the functions created in step 2 and 3, edit the event listener for "Whisper Button" so that it dislays the user's breakfast in all lowercase letters AND a smaller font.
 
 
 
 
-//CHALLENGE 2: Create a function that dislays the user's breakfast in all lowercase letters AND a smaller font when the user presses "Whisper Breakfast".
+//CHALLENGE 3: Using the functions created in step 2 and 3, edit the event listener for "Add Bacon" so that it displays the user's breakfast with the words "and bacon," and displays a picture of crispy delicious bacon.
 
 
 
-
-//CHALLENGE 3: Create a function that dislays on the webpage the user's breakfast with the words "and bacon" when the user presses "Add Bacon." A picture of cripsy delicious bacon should also appear below the text. The picture should disappear when the user clicks another button.
-
-
-
-
-
-//CHALLENGE 4: Using the functions that you've created, write some code so that the website displays the user's breakfast in all caps with the words "AND BACON", and a picture of bacon, when the user clicks "Yell Bacon."
+//CHALLENGE 4: Using the functions that you've created, write some code so that the website displays the user's breakfast in all caps with the words "AND BACON", and a picture of bacon, when the user clicks "Yell Bacon." Define another function that adds the bacon picture, and USE IT.
 
 
 
