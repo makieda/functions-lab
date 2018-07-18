@@ -1,0 +1,50 @@
+body {
+  font-family: helvetica;
+  margin: 0px;
+  padding: 0px
+}
+
+.wrapper {
+  height: 100vh;
+  background-image: url('https://d9hyo6bif16lx.cloudfront.net/live/img/production/detail/menu/breakfast_breakfast-classics_big-two-do-breakfast.jpg');
+  background-size: cover;
+  position: relative;
+}
+
+.breakfastInput {
+  position: absolute;
+  top: 40%;
+  right: 50%;
+  transform: translateX(50%);
+  width: 30rem;
+  height: 3rem;
+  border-radius: 10px;
+  font-size: 1.3rem;
+  text-align: center;
+  box-shadow: 0px 10px 10px rgba(0,0,0,.4)
+}
+
+.buttons {
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  display: inline-block
+}
+
+.output {
+    position: absolute;
+    top: 60%;
+    right: 50%;
+    transform: translateX(50%);
+    display: inline-block;
+    background-color: white
+}
+
+button {
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: orange;
+  border-radius: 5px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,.4)
+}
